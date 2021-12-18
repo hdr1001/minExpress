@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hdr1001/minExpress/issues"
   },
-  "homepage": "https://github.com/hdr1001/minExpress#readme"
+  "homepage": "https://github.com/hdr1001/minExpress#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
